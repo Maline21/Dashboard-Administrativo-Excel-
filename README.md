@@ -1,6 +1,7 @@
 # 📊 Dashboard Administrativo — Gestão de Solicitações
-> **Projeto simulado desenvolvido para fins de portfólio profissional.**
-> Os dados utilizados são fictícios e foram criados exclusivamente para estudo e demonstração de competências.
+
+> **Projeto simulado desenvolvido para fins de portfólio profissional.**  
+> Os dados utilizados são fictícios e foram criados exclusivamente para estudo, prática e demonstração de competências.
 
 ## 🎯 Sobre o projeto
 
@@ -10,7 +11,7 @@ A proposta foi aplicar conhecimentos de **Excel intermediário, organização de
 
 ## 📊 Dashboard Administrativo
 
-O dashboard apresenta uma visão consolidada das solicitações administrativas e permite acompanhar o andamento das demandas, atrasos, prioridades e desempenho do processo.
+O dashboard apresenta uma visão consolidada das **solicitações administrativas** e permite acompanhar o andamento das demandas, atrasos, prioridades e desempenho do processo.
 
 ### Principais indicadores
 
@@ -42,7 +43,7 @@ A base administrativa contempla:
 - Identificação de atrasos
 - Acompanhamento mensal
 
-## 🏢 Áreas simuladas
+## 🏢 Setores simulados
 
 As solicitações foram distribuídas entre diferentes setores:
 
@@ -55,7 +56,7 @@ As solicitações foram distribuídas entre diferentes setores:
 
 ## 📋 Tipos de demandas
 
-O projeto contempla exemplos de rotinas administrativas como:
+O projeto contempla exemplos de rotinas administrativas, como:
 
 - Compra de material
 - Atualização cadastral
@@ -66,7 +67,7 @@ O projeto contempla exemplos de rotinas administrativas como:
 - Relatórios administrativos
 - Solicitações de pagamento
 
-## 🛠️ Ferramentas e recursos
+## 🛠️ Ferramentas e recursos utilizados
 
 - Microsoft Excel
 - Power BI
@@ -79,13 +80,13 @@ O projeto contempla exemplos de rotinas administrativas como:
 
 ## 💡 Competências demonstradas
 
-- Organização administrativa
 - Excel intermediário
+- Organização administrativa
 - Controle e acompanhamento de solicitações
 - Gestão de prazos
 - Acompanhamento de prioridades
-- Conferência de informações
 - Organização e tratamento de dados
+- Conferência de informações
 - Construção de indicadores
 - Elaboração de dashboard
 - Atenção aos detalhes

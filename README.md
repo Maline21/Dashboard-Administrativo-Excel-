@@ -11,6 +11,8 @@ A proposta foi aplicar conhecimentos de **Excel intermediário, organização de
 
 ## 📊 Dashboard Administrativo
 
+![Dashboard Administrativo](dashboard-administrativo.png)
+
 O dashboard apresenta uma visão consolidada das **solicitações administrativas** e permite acompanhar o andamento das demandas, atrasos, prioridades e desempenho do processo.
 
 ### Principais indicadores
@@ -93,9 +95,11 @@ O projeto contempla exemplos de rotinas administrativas, como:
 
 ## 📁 Arquivo do projeto
 
-A planilha completa utilizada no projeto está disponível neste repositório.
+A planilha completa está disponível neste repositório:
 
-> Para visualizar todas as fórmulas, controles e funcionalidades, faça o download do arquivo e abra-o no Microsoft Excel.
+**`Dashboard Administrativo.xlsx`**
+
+> Para visualizar as fórmulas, controles e funcionalidades do projeto, faça o download do arquivo e abra-o no Microsoft Excel.
 
 ---
 
